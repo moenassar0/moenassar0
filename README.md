@@ -1,7 +1,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/112478303/187738664-4905c479-c966-43df-a0d0-822624ff562d.png"></div>
 <h1 align="center">Hi 👋, I'm Mohamad Nassar</h1>
 <h3 align="center">An upcoming full stack developer from Lebanon</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moenassar0&label=Profile%20views&color=0e75b6&style=flat" alt="moenassar0" /> </p>
 
 - 🌱 I’m currently learning **CSS, Bootstrap, Laravel, React**
