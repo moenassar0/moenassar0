@@ -11,6 +11,10 @@
 - 📫 How to reach me **mnassar57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<div style="display:flex;flex-direction:column;"> 
+<a href="https://www.linkedin.com/in/mohamad-nassar-73aa07253/">LinkedIn</a>
+<a href="https://calendly.com/mohamad-nassar">Calendly</a>
+  </div>
 <p align="left">
 </p>
 
