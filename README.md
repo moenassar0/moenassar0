@@ -12,8 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="display:flex;flex-direction:column;"> 
-<a href="https://www.linkedin.com/in/mohamad-nassar-73aa07253/">LinkedIn</a>
-<a href="https://calendly.com/mohamad-nassar">Calendly</a>
+<a href="https://www.linkedin.com/in/mohamad-nassar-73aa07253/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="110" height="40"/></a>
+  <br />
+<a href="https://calendly.com/mohamad-nassar"><img src="https://assets.website-files.com/611ba8df24df397a474a2f9c/620fd4f6f41d5f5322f81502_Calendly-Logo.png" alt="Calendly" width=130 height=100 /></a>
   </div>
 <p align="left">
 </p>
